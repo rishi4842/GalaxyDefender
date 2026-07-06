@@ -1,50 +1,144 @@
-# Welcome to your Expo app 👋
+# 🚀 Galaxy Defender
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern 2D Space Shooter game built using **React Native** and **Expo**.
 
-## Get started
+🌐 **Live Demo:** https://galaxy-defender-alpha.vercel.app
 
-1. Install dependencies
+## 📸 Preview
 
-   ```bash
-   npm install
-   ```
+> Add a screenshot or GIF of your game here.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🎮 Gameplay
 
-In the output, you'll find options to open the app in a
+- Control your spaceship
+- Destroy enemy ships
+- Defeat powerful bosses
+- Collect coins
+- Unlock achievements
+- Complete missions
+- Survive as long as possible
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## ✨ Features
 
-## Get a fresh project
+- 🚀 Smooth spaceship movement
+- 🔫 Laser shooting
+- 👾 Multiple enemy types
+- 💥 Collision detection
+- ❤️ Lives system
+- 🏆 Score & High Score
+- 📈 Level progression
+- 👑 Boss battles
+- 🪙 Coin collection
+- ⚡ Power-ups
+- 🎯 Missions
+- 🛍️ Shop System
+- 🏅 Achievements
+- ⏸️ Pause & Resume
+- 🌌 Animated Star Background
+- 📱 Mobile & Web Support
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
+## 🛠️ Tech Stack
+
+- React Native
+- Expo
+- JavaScript
+- React Hooks
+- Vercel
+- GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+GalaxyDefender
+│── App.js
+│── GameScreen.js
+│── assets/
+│── app.json
+│── package.json
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🚀 Getting Started
 
-To learn more about developing your project with Expo, look at the following resources:
+### Clone the repository
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+git clone https://github.com/rishi4842/GalaxyDefender.git
+```
 
-## Join the community
+### Go into the project
 
-Join our community of developers creating universal apps.
+```bash
+cd GalaxyDefender
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the project
+
+```bash
+npx expo start
+```
+
+---
+
+## 🌍 Live Demo
+
+Play here:
+
+**https://galaxy-defender-alpha.vercel.app**
+
+---
+
+## 🎥 Gameplay Video
+
+Gameplay video:
+**(Paste your Google Drive video link here)**
+
+---
+
+## 📷 Screenshots
+
+Add screenshots of:
+
+- Main Menu
+- Gameplay
+- Boss Fight
+- Game Over
+- Shop
+
+---
+
+## 👨‍💻 Developer
+
+**Rishikesh Boppa**
+
+GitHub:
+https://github.com/rishi4842
+
+---
+
+## ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and motivates future improvements.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
