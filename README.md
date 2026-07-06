@@ -6,7 +6,8 @@ A modern 2D Space Shooter game built using **React Native** and **Expo**.
 
 ## 📸 Preview
 
-> Add a screenshot or GIF of your game here.
+<img width="1916" height="1107" alt="Screenshot 2026-07-06 at 2 21 43 PM" src="https://github.com/user-attachments/assets/ec6ff588-7c05-4589-b886-31439440c002" />
+
 
 ---
 
@@ -106,7 +107,7 @@ Play here:
 ## 🎥 Gameplay Video
 
 Gameplay video:
-**(Paste your Google Drive video link here)**
+**(https://drive.google.com/file/d/1mmae1bjVq-DU_x8Mz9nifUQhHqIjWYML/view?usp=sharing)**
 
 ---
 
